@@ -2,6 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+#---------- 自定义 ---------------
+.idea/
+BuildAPK/
+Bundles/
+yoo/
+#---------- 自定义 ---------------
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
